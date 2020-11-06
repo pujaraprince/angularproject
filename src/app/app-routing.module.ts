@@ -21,7 +21,3 @@ const routes: Routes = [
   ]
 })
 export class AppRoutingModule { }
-// ye componet dekh sahi hai kya?
-//bro ye konsa version hai angular ka
-//alag dikh raha hai meko  /8/ hi hai i think //ye module thik hai
-//error ky hai?? command me toh koi error nahi aa raha pata nahi kya error hai
